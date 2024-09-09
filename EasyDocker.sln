@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasyDocker", "EasyDocker\EasyDocker.csproj", "{411D842A-4AA1-4508-8260-B0A58EB2476D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{411D842A-4AA1-4508-8260-B0A58EB2476D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{411D842A-4AA1-4508-8260-B0A58EB2476D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{411D842A-4AA1-4508-8260-B0A58EB2476D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{411D842A-4AA1-4508-8260-B0A58EB2476D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
